@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "feedback": "The course was well-structured and easy to follow. I feel confident in my JavaScript skills now.",
+    "course": "JavaScript for Beginners",
+    "timeReviewed": "2024-09-01T10:30:00Z",
+    "profileImage": "https://example.com/images/alice_johnson.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "feedback": "Great course! The exercises were really helpful in understanding the concepts.",
+    "course": "JavaScript for Beginners",
+    "timeReviewed": "2024-09-02T14:20:00Z",
+    "profileImage": "https://example.com/images/bob_smith.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Carla Brown",
+    "feedback": "I enjoyed the course, but I wish there were more advanced topics covered.",
+    "course": "JavaScript for Beginners",
+    "timeReviewed": "2024-09-03T16:45:00Z",
+    "profileImage": "https://example.com/images/carla_brown.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "feedback": "The instructor was clear and engaging. I learned a lot in a short time.",
+    "course": "JavaScript for Beginners",
+    "timeReviewed": "2024-09-04T11:00:00Z",
+    "profileImage": "https://example.com/images/david_wilson.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emma Davis",
+    "feedback": "This course was a great introduction to JavaScript. The quizzes helped reinforce the material.",
+    "course": "JavaScript for Beginners",
+    "timeReviewed": "2024-09-05T09:15:00Z",
+    "profileImage": "https://example.com/images/emma_davis.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Frank Garcia",
+    "feedback": "Good course for beginners. I now have a solid understanding of JavaScript basics.",
+    "course": "JavaScript for Beginners",
+    "timeReviewed": "2024-09-06T13:30:00Z",
+    "profileImage": "https://example.com/images/frank_garcia.jpg"
+  }
+]

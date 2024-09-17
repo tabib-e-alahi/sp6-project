@@ -1,0 +1,112 @@
+[
+  {
+      "title": "JavaScript for Beginners",
+      "author": "John Doe",
+      "description": "Learn the basics of JavaScript, the most popular programming language for web development.",
+      "lessons": 30,
+      "duration_hours": 15,
+      "price": "Free",
+      "enrolled_students": 5000,
+      "image": "https://i.ibb.co/VHPs28n/c2.jpg",
+      "ratings": 4.7
+  },
+  {
+      "title": "Mastering React",
+      "author": "Jane Smith",
+      "description": "A comprehensive guide to building dynamic web applications using React.js.",
+      "lessons": 45,
+      "duration_hours": 20,
+      "price": "$49.99",
+      "enrolled_students": 3200,
+      "image": "https://i.ibb.co/ryN7HH4/c1.jpg",
+      "ratings": 4.8
+  },
+  {
+      "title": "Python for Data Science",
+      "author": "Emily Clark",
+      "description": "Learn how to use Python for data analysis, visualization, and machine learning.",
+      "lessons": 50,
+      "duration_hours": 25,
+      "price": "$79.99",
+      "enrolled_students": 8700,
+      "image": "https://i.ibb.co/VHPs28n/c2.jpg",
+      "ratings": 4.9
+  },
+  {
+      "title": "UI/UX Design Fundamentals",
+      "author": "Michael Brown",
+      "description": "Discover the principles of effective user interface and user experience design.",
+      "lessons": 20,
+      "duration_hours": 10,
+      "price": "$29.99",
+      "enrolled_students": 2700,
+      "image": "https://i.ibb.co/VHPs28n/c2.jpg",
+      "ratings": 4.5
+  },
+  {
+      "title": "Full-Stack Web Development",
+      "author": "Laura Wilson",
+      "description": "Become a full-stack developer by mastering front-end and back-end technologies.",
+      "lessons": 60,
+      "duration_hours": 35,
+      "price": "$99.99",
+      "enrolled_students": 15000,
+      "image": "https://i.ibb.co/ryN7HH4/c1.jpg",
+      "ratings": 4.6
+  },
+  {
+      "title": "Digital Marketing Essentials",
+      "author": "David Johnson",
+      "description": "Learn the key strategies for effective digital marketing, including SEO and social media.",
+      "lessons": 25,
+      "duration_hours": 12,
+      "price": "$39.99",
+      "enrolled_students": 4200,
+      "image": "https://i.ibb.co/VHPs28n/c2.jpg",
+      "ratings": 4.4
+  },
+  {
+      "title": "Advanced Machine Learning",
+      "author": "Sophia Martinez",
+      "description": "Dive deep into machine learning algorithms and techniques with hands-on projects.",
+      "lessons": 40,
+      "duration_hours": 30,
+      "price": "$89.99",
+      "enrolled_students": 6100,
+      "image": "https://i.ibb.co/VHPs28n/c2.jpg",
+      "ratings": 4.7
+  },
+  {
+      "title": "Introduction to Cloud Computing",
+      "author": "James Anderson",
+      "description": "Get started with cloud computing concepts, including AWS, Azure, and Google Cloud.",
+      "lessons": 18,
+      "duration_hours": 9,
+      "price": "$19.99",
+      "enrolled_students": 3100,
+      "image": "https://i.ibb.co/VHPs28n/c2.jpg",
+      "ratings": 4.3
+  },
+  {
+      "title": "Photography Masterclass",
+      "author": "Olivia Lee",
+      "description": "Learn the art of photography, from camera settings to post-processing techniques.",
+      "lessons": 35,
+      "duration_hours": 18,
+      "price": "$59.99",
+      "enrolled_students": 7600,
+      "image": "https://i.ibb.co/ryN7HH4/c1.jpg",
+      "ratings": 4.6
+  },
+  {
+      "title": "Ethical Hacking and Cybersecurity",
+      "author": "Robert Davis",
+      "description": "Understand the principles of ethical hacking and how to secure networks against attacks.",
+      "lessons": 50,
+      "duration_hours": 28,
+      "price": "$69.99",
+      "enrolled_students": 8400,
+      "image": "https://i.ibb.co/VHPs28n/c2.jpg",
+      "ratings": 4.8
+  }
+]

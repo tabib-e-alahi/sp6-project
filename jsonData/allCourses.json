@@ -1,0 +1,327 @@
+[
+  {
+    "course_title": "Introduction to Web Development",
+    "about_this_course": "This course provides an introduction to the basics of web development. Students will learn about HTML, CSS, and JavaScript, the core technologies used to build websites. By the end of the course, learners will have created their own simple website. This course is designed for those who have no prior experience in web development, making it the perfect start for beginners looking to enter the field.",
+    "cover_image": "https://i.ibb.co.com/Xy4v374/web-development.jpg",
+    "price": 0,
+    "category": "Web Development",
+    "course_learning": [
+      "Understand the basics of HTML",
+      "Style web pages using CSS",
+      "Introduction to JavaScript",
+      "Build a simple personal website"
+    ],
+    "course_materials": [
+      "Write basic HTML code",
+      "Apply CSS styles to a webpage",
+      "Use JavaScript for interactivity",
+      "Deploy a website to the internet"
+    ],
+    "Prerequisites": [],
+    "lectures": 12,
+    "course_duration": 8,
+    "skill_level": "Beginner",
+    "forWhome": [
+      "Aspiring web developers",
+      "Students interested in coding",
+      "Anyone with no prior experience",
+      "People wanting to build a personal website"
+    ],
+    "course_instructors": ["instructor1@example.com"],
+    "course_posted_date": "Sep 1, 2024 03:15PM"
+  },
+  {
+    "course_title": "Advanced JavaScript Concepts",
+    "about_this_course": "This course is designed for intermediate learners who are already familiar with JavaScript basics and want to dive deeper into advanced topics like closures, callbacks, and asynchronous programming. Students will learn how to build more complex applications using modern JavaScript frameworks and libraries.",
+    "cover_image": "https://i.ibb.co.com/Sstr6HP/19199360.jpg",
+    "price": 150,
+    "category": "Programming",
+    "course_learning": [
+      "Master closures and callbacks",
+      "Understand asynchronous programming",
+      "Use Promises and async/await",
+      "Work with JavaScript frameworks"
+    ],
+    "course_materials": [
+      "Create asynchronous applications",
+      "Handle complex logic with JavaScript",
+      "Optimize JavaScript code",
+      "Build applications using frameworks like React"
+    ],
+    "Prerequisites": [
+      "Basic understanding of JavaScript",
+      "Familiarity with HTML and CSS"
+    ],
+    "lectures": 15,
+    "course_duration": 10,
+    "skill_level": "Intermediate",
+    "forWhome": [
+      "Intermediate JavaScript developers",
+      "Frontend developers looking to enhance skills",
+      "Programmers wanting to master async programming",
+      "Software developers interested in frameworks"
+    ],
+    "course_instructors": [
+      "instructor2@example.com",
+      "instructor3@example.com"
+    ],
+    "course_posted_date": "Aug 15, 2024 02:40PM"
+  },
+  {
+    "course_title": "Data Science with Python",
+    "about_this_course": "This comprehensive course covers the fundamentals of data science using Python. Students will explore data analysis, manipulation, and visualization techniques, using libraries like NumPy, pandas, and Matplotlib. The course also introduces machine learning concepts, making it an excellent choice for those looking to pursue a career in data science.",
+    "cover_image": "https://i.ibb.co.com/bFD6d5y/Screenshot-113.png",
+    "price": 0,
+    "category": "Data Science",
+    "course_learning": [
+      "Work with Python libraries like NumPy and pandas",
+      "Visualize data using Matplotlib and Seaborn",
+      "Understand basic machine learning concepts",
+      "Perform data manipulation and cleaning"
+    ],
+    "course_materials": [
+      "Analyze datasets using Python",
+      "Create data visualizations",
+      "Apply machine learning algorithms",
+      "Work on real-world data science projects"
+    ],
+    "Prerequisites": ["Basic programming knowledge"],
+    "lectures": 14,
+    "course_duration": 12,
+    "skill_level": "Intermediate",
+    "forWhome": [
+      "Aspiring data scientists",
+      "Python programmers",
+      "Students interested in data analysis",
+      "Professionals looking to switch to data science"
+    ],
+    "course_instructors": ["instructor4@example.com"],
+    "course_posted_date": "Jul 30, 2024 09:10AM"
+  },
+  {
+    "course_title": "Introduction to Graphic Design",
+    "about_this_course": "This beginner-friendly course introduces students to the principles of graphic design. Learners will explore color theory, typography, and layout design using popular design software. By the end of the course, students will be able to create visually appealing designs for personal or professional use.",
+    "cover_image": "https://i.ibb.co.com/1GYMg9w/3533582.jpg",
+    "price": 100,
+    "category": "Design",
+    "course_learning": [
+      "Learn color theory and typography",
+      "Understand layout and composition",
+      "Work with design software like Adobe Illustrator",
+      "Create your own design projects"
+    ],
+    "course_materials": [
+      "Design logos and branding",
+      "Create posters and flyers",
+      "Work on web design layouts",
+      "Build a portfolio of graphic design work"
+    ],
+    "Prerequisites": [],
+    "lectures": 11,
+    "course_duration": 7,
+    "skill_level": "Beginner",
+    "forWhome": [
+      "Aspiring graphic designers",
+      "Artists looking to go digital",
+      "Freelancers wanting to improve design skills",
+      "Beginners in visual design"
+    ],
+    "course_instructors": ["instructor5@example.com"],
+    "course_posted_date": "Jun 20, 2024 05:45PM"
+  },
+  {
+    "course_title": "Full Stack Web Development",
+    "about_this_course": "This full-stack web development course covers both front-end and back-end technologies, providing students with the skills needed to build complete web applications. Learners will work with HTML, CSS, JavaScript, React, Node.js, and MongoDB. The course is designed for individuals looking to develop comprehensive knowledge in web development.",
+    "cover_image": "https://i.ibb.co.com/J7xMRRj/person-front-computer-working-html.jpg",
+    "price": 0,
+    "category": "Web Development",
+    "course_learning": [
+      "Build responsive web applications",
+      "Develop RESTful APIs with Node.js",
+      "Work with MongoDB databases",
+      "Deploy full-stack applications"
+    ],
+    "course_materials": [
+      "Create full-stack projects",
+      "Work with both frontend and backend technologies",
+      "Integrate databases into applications",
+      "Build dynamic websites"
+    ],
+    "Prerequisites": ["Basic understanding of HTML, CSS, and JavaScript"],
+    "lectures": 18,
+    "course_duration": 20,
+    "skill_level": "Intermediate",
+    "forWhome": [
+      "Aspiring full-stack developers",
+      "Frontend developers wanting to learn backend",
+      "Backend developers wanting to learn frontend",
+      "Students looking to build web applications"
+    ],
+    "course_instructors": [
+      "instructor6@example.com",
+      "instructor7@example.com"
+    ],
+    "course_posted_date": "Jul 12, 2024 11:55AM"
+  },
+  {
+    "course_title": "Cybersecurity Basics",
+    "about_this_course": "In this beginner-friendly cybersecurity course, students will learn the essentials of protecting systems and data from cyber threats. Topics include network security, encryption, and threat detection. By the end of the course, learners will have a foundational understanding of cybersecurity practices.",
+    "cover_image": "https://i.ibb.co.com/qm2DtrQ/19199448.jpg",
+    "price": 120,
+    "category": "Cybersecurity",
+    "course_learning": [
+      "Understand network security fundamentals",
+      "Learn about encryption techniques",
+      "Identify and mitigate cyber threats",
+      "Implement basic security measures"
+    ],
+    "course_materials": [
+      "Analyze security vulnerabilities",
+      "Create secure network setups",
+      "Apply encryption to protect data",
+      "Respond to cyber incidents"
+    ],
+    "Prerequisites": [],
+    "lectures": 10,
+    "course_duration": 8,
+    "skill_level": "Beginner",
+    "forWhome": [
+      "Aspiring cybersecurity professionals",
+      "IT professionals wanting to expand skills",
+      "Individuals interested in online safety",
+      "Students new to cybersecurity"
+    ],
+    "course_instructors": ["instructor8@example.com"],
+    "course_posted_date": "Aug 22, 2024 07:30PM"
+  },
+  {
+    "course_title": "Machine Learning Mastery",
+    "about_this_course": "This advanced course on machine learning dives into algorithm development, data modeling, and the application of machine learning frameworks. Students will gain hands-on experience with popular tools like TensorFlow and Scikit-Learn, preparing them to tackle real-world problems using machine learning techniques.",
+    "cover_image": "https://i.ibb.co.com/C6YCrXL/view-futuristic-robot-school-environment.jpg",
+    "price": 200,
+    "category": "Artificial Intelligence",
+    "course_learning": [
+      "Master machine learning algorithms",
+      "Work with popular frameworks like TensorFlow",
+      "Develop data models",
+      "Apply machine learning to real-world scenarios"
+    ],
+    "course_materials": [
+      "Build and train machine learning models",
+      "Use TensorFlow for deep learning",
+      "Apply algorithms to large datasets",
+      "Work on machine learning projects"
+    ],
+    "Prerequisites": [
+      "Understanding of programming",
+      "Basic knowledge of data science"
+    ],
+    "lectures": 16,
+    "course_duration": 15,
+    "skill_level": "Expert",
+    "forWhome": [
+      "Data scientists",
+      "Machine learning engineers",
+      "Developers interested in AI",
+      "Professionals working with big data"
+    ],
+    "course_instructors": ["instructor9@example.com"],
+    "course_posted_date": "Sep 5, 2024 04:20PM"
+  },
+  {
+    "course_title": "Digital Marketing Essentials",
+    "about_this_course": "This course covers the fundamentals of digital marketing, including SEO, social media marketing, email campaigns, and analytics. Designed for all levels, learners will be able to craft digital marketing strategies that drive results, making it ideal for small business owners, marketing professionals, and entrepreneurs.",
+    "cover_image": "https://i.ibb.co.com/XY018wb/31958.jpg",
+    "price": 80,
+    "category": "Marketing",
+    "course_learning": [
+      "Master SEO fundamentals",
+      "Create effective social media campaigns",
+      "Understand email marketing best practices",
+      "Analyze marketing data for insights"
+    ],
+    "course_materials": [
+      "Plan and execute a digital marketing strategy",
+      "Run social media advertisements",
+      "Optimize websites for search engines",
+      "Use analytics to improve marketing performance"
+    ],
+    "Prerequisites": [],
+    "lectures": 12,
+    "course_duration": 10,
+    "skill_level": "All Levels",
+    "forWhome": [
+      "Marketing professionals",
+      "Small business owners",
+      "Entrepreneurs",
+      "Students interested in digital marketing"
+    ],
+    "course_instructors": ["instructor10@example.com"],
+    "course_posted_date": "Jul 7, 2024 02:30PM"
+  },
+  {
+    "course_title": "iOS App Development with Swift",
+    "about_this_course": "In this intermediate-level course, students will learn how to develop iOS applications using the Swift programming language. The course covers the fundamentals of app design, user interface building, and integrating APIs. By the end of the course, students will have built a fully functional iOS app.",
+    "cover_image": "https://i.ibb.co.com/gyDD3k1/5794866.jpg",
+    "price": 130,
+    "category": "Mobile Development",
+    "course_learning": [
+      "Learn the Swift programming language",
+      "Develop user-friendly iOS apps",
+      "Work with APIs to integrate data",
+      "Deploy apps to the App Store"
+    ],
+    "course_materials": [
+      "Create user interfaces with SwiftUI",
+      "Develop apps for iPhone and iPad",
+      "Integrate backend services",
+      "Test and debug iOS applications"
+    ],
+    "Prerequisites": [
+      "Basic understanding of programming",
+      "Familiarity with object-oriented programming"
+    ],
+    "lectures": 14,
+    "course_duration": 12,
+    "skill_level": "Intermediate",
+    "forWhome": [
+      "Aspiring mobile developers",
+      "Developers interested in iOS platforms",
+      "Students wanting to learn Swift",
+      "Anyone looking to build mobile apps"
+    ],
+    "course_instructors": ["instructor11@example.com"],
+    "course_posted_date": "Aug 19, 2024 01:00PM"
+  },
+  {
+    "course_title": "Photography Fundamentals",
+    "about_this_course": "This beginner-level photography course introduces students to the essential skills needed to capture stunning images. Learners will explore composition, lighting, and camera settings, as well as tips for editing photos to create visually appealing results. Perfect for aspiring photographers looking to enhance their skills.",
+    "cover_image": "https://i.ibb.co.com/G7Qk5Tg/high-angle-traveling-planning-process.jpg",
+    "price": 0,
+    "category": "Photography",
+    "course_learning": [
+      "Understand composition and framing",
+      "Work with natural and artificial lighting",
+      "Use camera settings to capture quality images",
+      "Edit photos using basic software"
+    ],
+    "course_materials": [
+      "Shoot in manual mode",
+      "Work with different lighting techniques",
+      "Create stunning compositions",
+      "Edit and retouch photos"
+    ],
+    "Prerequisites": [],
+    "lectures": 12,
+    "course_duration": 8,
+    "skill_level": "Beginner",
+    "forWhome": [
+      "Aspiring photographers",
+      "Hobbyists interested in photography",
+      "Creative individuals",
+      "Students wanting to explore photography"
+    ],
+    "course_instructors": ["instructor12@example.com"],
+    "course_posted_date": "Jun 28, 2024 10:15AM"
+  }
+]

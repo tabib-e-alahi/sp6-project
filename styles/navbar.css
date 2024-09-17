@@ -1,0 +1,13 @@
+.noto-sans-font {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.navOptions{
+    background: none !important;
+    color: black !important;
+    font-size: medium !important;
+    font-weight: 600 !important;
+}

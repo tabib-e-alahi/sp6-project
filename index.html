@@ -1,11 +1,96 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html data-theme="light" lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    <h1>Tiger Tanzim</h1>
-</body>
+    <!-- =============== noto font links ====================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <!-- ================== css styles ======================== -->
+    <link rel="stylesheet" href="./styles/navbar.css" />
+    <link rel="stylesheet" href="./styles/banner.css" />
+    <!-- ============ daisyui links ======================= -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- =========== tailwincss script file ============ -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- ================= animate.css cdn ================ -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+  </head>
+  <body class="space-y-14 bg-[#F6F6F6]">
+    <!-- ================= == Header Section ========================= -->
+    <header class="gradient-background">
+      <!-- ================== Banner section =========================== -->
+      <section class="pt-20 h-fit bg-opacity-40 banner-bg-img">
+        <div class="max-w-7xl mx-auto">
+          <section class="lg:h-fit rounded-md w-11/12 mx-auto">
+            <div class="grid py-8 lg:grid-cols-2 lg:pt-4">
+              <div class="mr-auto place-self-center justify-center w-11/12">
+                <h1
+                  class="animate__animated animate__fadeInLeft animate__slow max-w-2xl mb-4 roboto-mono-font font-bold leading-none tracking-tight md:text-5xl line_class dark:text-black"
+                >
+                  Experience <br />
+                  Personalized
+                  <br />
+                  learning with our <br />
+                  private course.
+                </h1>
+                <p
+                  class="animate__animated animate__fadeInRight animate__slow max-w-2xl mb-6 font-semibold text-gray-500 lg:mb-8 dark:text-gray-600"
+                >
+                  Discover tailored education with our private course, offering
+                  a personalized learning experience that caters to your unique
+                  needs and goals. .
+                </p>
+                <div
+                  class="animate__animated animate__fadeInUp animate__slower space-y-4 sm:flex sm:space-y-0 sm:space-x-4"
+                >
+                  <button
+                    class="flex-none rounded-sm bg-indigo-500 px-8 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
+                  >
+                    View Courses
+                  </button>
+                </div>
+              </div>
+              <div
+                class="hidden lg:mt-0 lg:flex justify-end animate__animated animate__fadeInRight animate__slow"
+              >
+                <img
+                  class="h-fit w-full"
+                  src="./assets/banner_image.png"
+                  alt="hero image"
+                />
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+    </header>
+    <!-- ================= main body section ============================ -->
+    <main>
+      <!-- ============= popular copurses section ================= -->
+      <section class="max-w-7xl mx-auto mt-20">
+        <h1 class="text-center text-5xl font-bold mb-16 font-sans">
+          Most Popular Courses
+        </h1>
+        <div
+          id="popular-container"
+          class="w-11/12 mx-auto grid grid-cols-3 gap-x-6 gap-y-6"
+        ></div>
+      </section>
+    </main>
+    <!-- =============== js scripts ===================  -->
+    <script src="js/popular.js"></script>
+  </body>
 </html>

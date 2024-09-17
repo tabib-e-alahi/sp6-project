@@ -4,9 +4,194 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <!-- ============ daisyui links ======================= -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- =========== tailwincss script file ============ -->
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <h1>Tiger Tanzim</h1>
-    <p>this is from istiak</p>
+    <header>
+        <nav class="px-4 py-1 bg-opacity-20">
+            <div class="navbar">
+              <div class="navbar-start">
+                <div class="dropdown">
+                  <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      class="h-5 w-5"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                    >
+                      <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M4 6h16M4 12h8m-8 6h16"
+                      />
+                    </svg>
+                  </div>
+                  <ul
+                    tabindex="0"
+                    class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
+                  >
+                    <li><a>Home</a></li>
+                    <li><a>Courses</a></li>
+                    <li><a>Teach on EduBridge</a></li>
+                    <li><a>Contact Us</a></li>
+                  </ul>
+                </div>
+                <img class="w-44 h-16" src="./assets/new_logo.png" alt="logo" />
+              </div>
+    
+              <div class="navbar-center hidden lg:flex">
+                <ul
+                  class="menu menu-horizontal px-1 noto-sans-font text-[15px] navOptions"
+                >
+                  <li><a>Home</a></li>
+                  <li><a>Courses</a></li>
+                  <li><a>Teach on EduBridge</a></li>
+                  <li><a>Contact Us</a></li>
+                </ul>
+              </div>
+    
+              <div class="navbar-end gap-6">
+                <button
+                  class="flex-none rounded-sm border-2 border-indigo-500 px-6 py-2 font-semibold text-indigo-600 shadow-sm hover:bg-indigo-500 hover:text-white"
+                >
+                  Log In
+                </button>
+                <button
+                  class="flex-none rounded-sm bg-indigo-500 px-6 py-2.5 font-semibold text-white shadow-sm hover:bg-indigo-400"
+                >
+                  Sign Up
+                </button>
+              </div>
+            </div>
+          </nav>
+    </header>
+    <main>
+        <!-- ================== our partners section ====================  -->
+      <section
+      class="max-w-7xl mx-auto py-10 my-16 rounded-xl bg-white shadow-md"
+    >
+      <div class="mx-auto w-11/12">
+        <div class="mb-10 text-center">
+          <span class="text-indigo-600 text-center font-medium mb-2 block">
+            OUR PARTNERS
+          </span>
+          <h1 class="text-4xl text-gray-900 text-center font-bold">
+            We work with the best partners
+          </h1>
+        </div>
+        <div class="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-4">
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img
+              class="w-32 h-12"
+              src="/assets/partners/british.png"
+              alt=""
+            />
+          </a>
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img class="w-32 h-12" src="/assets/partners/cisco.png" alt="" />
+          </a>
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img class="w-16 h-16" src="/assets/partners/code.png" alt="" />
+          </a>
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img class="w-32 h-12" src="/assets/partners/amazon.png" alt="" />
+          </a>
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img class="w-32 h-12" src="/assets/partners/ebay.png" alt="" />
+          </a>
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img class="w-32 h-12" src="/assets/partners/ibm.png" alt="" />
+          </a>
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img class="w-32 h-12" src="/assets/partners/oracol.png" alt="" />
+          </a>
+          <a
+            href="#"
+            class="flex justify-center items-center border border-solid border-gray-200 shadow-sm h-24 rounded-2xl"
+          >
+            <img
+              class="w-32 h-12"
+              src="/assets/partners/linkedin.png"
+              alt=""
+            />
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Become an instructor section ==================== -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-0 my-36">
+      <div
+        class="mx-auto w-11/12 flex gap-10 lg:flex-justify lg:flex flex-col lg:flex-row-reverse lg:items-center"
+      >
+        <div class="sm:text-center lg:text-left roboto-mono-font">
+          <h1
+            class="text-4xl tracking-tight font-extrabold text-gray-800 sm:text-5xl md:text-4xl"
+          >
+            Become an
+            <span class="text-blue-600"> Instructor</span>
+          </h1>
+          <p
+            class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-sm sm:max-w-xl sm:mx-auto md:mt-5 md:text-[16px] lg:mx-0 text-justify"
+          >
+            Empower others by sharing your expertise! Join our team of
+            dedicated educators and inspire the next generation. As an
+            instructor, you'll have the opportunity to shape minds, foster
+            growth, and make a meaningful impact. Apply today to start your
+            journey as an instructor!
+          </p>
+          <div
+            class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start"
+          >
+            <div class="rounded-md shadow">
+              <a
+                href="#"
+                class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-600 md:py-4 md:text-lg md:px-10"
+              >
+                Start teaching today
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="lg:inset-y-0 lg:right-0 lg:w-1/2 my-4">
+          <img
+            class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
+            src="/assets/Become.png"
+            alt=""
+          />
+        </div>
+      </div>
+    </section>
+    </main>
 </body>
 </html>
